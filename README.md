@@ -1,6 +1,6 @@
 # beech.css
 
-Classless CSS that makes your website easy on the eyes! Based on sakura. Feel free to use it in your projects!
+Classless CSS theme that makes your website easy on the eyes! Based on sakura.
 
 ## Links
 
