@@ -4,7 +4,7 @@ Classless CSS that makes your website easy on the eyes! Based on sakura. Feel fr
 
 ## Links
 
-CDN: https://unpkg.com/beech.css@1.0.0/style.css
+CDN: https://unpkg.com/beech.css@1.0.0/style.css <br>
 Demo: https://y-arjun-y.github.io/arjunyadav-css
 
 ## Credit
