@@ -1,0 +1,23 @@
+{
+  "name": "beech.css",
+  "version": "1.0.0",
+  "description": "Classless CSS that makes your website easy on the eyes!",
+  "main": "style.css",
+  "scripts": {
+    "test": "npx serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-arjun-y/arjunyadav-css.git"
+  },
+  "keywords": [
+    "classless",
+    "css"
+  ],
+  "author": "Arjun Yadav (https://arjunyadav.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/y-arjun-y/arjunyadav-css/issues"
+  },
+  "homepage": "https://github.com/y-arjun-y/arjunyadav-css#readme"
+}
