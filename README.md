@@ -1,5 +1,5 @@
 # arjunyadav-css
-Classless CSS for my website on Bear Blog based on sakura. Feel free to use it in your projects!
+Classless CSS for [my website on Bear Blog](arjunyadav.net) based on sakura. Feel free to use it in your projects!
 
 ## Credit
 sakura: https://github.com/oxalorg/sakura <br>
