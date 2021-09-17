@@ -22,7 +22,8 @@
     5. Tables
     6. Inputs
     7. Buttons
-    8. Responsiveness
+    8. Footer
+    9. Responsiveness
 */
 
 /* 1. Global */
@@ -179,6 +180,10 @@ sup {
   font-size: 75%;
 }
 
+small small {
+  font-size: 100%;
+}
+
 time {
   font-style: normal;
   margin-right: 0.5em;
@@ -200,7 +205,6 @@ a:hover {
 
 /* 4. Images */
 img {
-  height: auto;
   max-width: 100%;
   margin-top: 0px;
   margin-bottom: 2.5rem;
@@ -308,7 +312,12 @@ input[type="button"]:hover:enabled {
   outline: 0;
 }
 
-/* 8. Responsiveness */
+/* 8. Footer */
+footer {
+  margin-top: 1em;
+}
+
+/* 9. Responsiveness */
 @media (max-width: 684px) {
   body {
     font-size: 1.53rem;
