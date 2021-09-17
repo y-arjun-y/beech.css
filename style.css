@@ -207,6 +207,7 @@ a:hover {
 img {
   max-width: 100%;
   margin-top: 0px;
+  margin-bottom: 1.5rem;
 }
 
 /* 5. Tables */
