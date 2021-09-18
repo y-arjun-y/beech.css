@@ -8,7 +8,7 @@
 
 ## Description
 
-Classless CSS theme that makes your website easy on the eyes! Based on [sakura](https://github.com/oxalorg/sakura).
+A classless CSS theme that makes your website easy on the eyes! Based on [sakura](https://github.com/oxalorg/sakura).
 
 ## Installation
 
