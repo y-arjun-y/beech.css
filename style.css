@@ -9,7 +9,8 @@
       a) Font
       b) Variables
       c) Selection
-      d) Document Styling
+      d) Target
+      e) Document Styling
     2. Text
       a) Headings
       b) Lists and Navigation Bar
@@ -46,6 +47,18 @@
 pre::selection,
 code::selection {
   background-color: gray;
+}
+
+/* d) Target */
+:target {
+  background-color: var(--alt-color);
+  animation: fadeOut 3s;
+}
+
+@keyframes fadeOut {
+  100% {
+    background-color: unset;
+  }
 }
 
 /*  d) Document Styling */
