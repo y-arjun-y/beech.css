@@ -18,7 +18,7 @@ A classless CSS theme that makes your website easy on the eyes! Based on [sakura
 ```html
 <link
   rel="stylesheet"
-  href="https://unpkg.com/beech.css@1.0.7/style.css"
+  href="https://unpkg.com/beech.css@1.0.8/style.css"
   type="text/css"
 />
 ```

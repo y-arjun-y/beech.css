@@ -52,7 +52,7 @@ code::selection {
 /* d) Target */
 :target {
   background-color: var(--alt-color);
-  animation: fadeOut 3s;
+  animation: fadeOut 3s forwards;
 }
 
 @keyframes fadeOut {
