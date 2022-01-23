@@ -36,7 +36,7 @@
   --font: "Martel";
   --background-color: #fffaee;
   --alt-color: #faebb9;
-  --link-color: #bea256;
+  --dark-alt-color: #bea256;
 }
 
 /*  c) Selection */
@@ -209,7 +209,7 @@ hr {
 /* 3. Links */
 a {
   text-decoration: none;
-  color: var(--link-color);
+  color: var(--dark-alt-color);
 }
 
 a:hover {
@@ -236,7 +236,7 @@ table {
 td,
 th {
   padding: 0.5em;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid var(--dark-alt-color);
 }
 
 /* 6. Inputs */
