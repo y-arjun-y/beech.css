@@ -216,6 +216,21 @@ a:hover {
   color: black;
 }
 
+kbd {
+  background-color: var(--background-color);
+  border-radius: 3px;
+  border: 1px solid var(--alt-color);
+  box-shadow: 0 1px 1px, var(--background-color),
+    0 2px 0 0 var(--alt-color) inset;
+  color: #333;
+  display: inline-block;
+  font-size: 0.85em;
+  font-weight: 700;
+  line-height: 1;
+  padding: 2px 4px;
+  white-space: nowrap;
+}
+
 /* 4. Images */
 img {
   display: block;
