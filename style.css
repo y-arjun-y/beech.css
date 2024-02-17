@@ -1,4 +1,4 @@
-/* beech.css
+/* Based on beech.css
     Credit: https://github.com/oxalorg/sakura/
     GitHub: https://github.com/y-arjun-y/beech.css
     Licensed under the MIT License.
@@ -15,7 +15,7 @@
       a) Headings
       b) Lists and Navigation Bar
       c) Paragraph
-      d) Blockquotes
+      d) Blockquotes and Dropdowns
       e) Preformatted Text and Code
       f) Special Text Elements
     3. Links
@@ -61,7 +61,7 @@ code::selection {
   }
 }
 
-/*  d) Document Styling */
+/*  e) Document Styling */
 html {
   font-size: 62.5%;
   font-family: var(--font);
@@ -145,7 +145,7 @@ p {
   margin-bottom: 2.5rem;
 }
 
-/*  d) Blockquotes */
+/*  d) Blockquotes and Dropdown */
 blockquote {
   margin-left: 0px;
   margin-right: 0px;
@@ -159,6 +159,24 @@ blockquote {
 
 blockquote p {
   margin-bottom: 0;
+}
+
+details {
+  padding-left: 1em;
+}
+
+details[open] {
+  margin-bottom: 2em;
+}
+
+#end {
+  margin-bottom: 1em;
+}
+
+summary {
+  /* Use a larger font size for the marker */
+  font-size: 1.2em; /* Adjust the size as needed */
+  padding-bottom: 0.5em;
 }
 
 /* e) Preformatted Text and Code */
